@@ -32,6 +32,7 @@
   **Frontend:** TypeScript · JavaScript · React · Next.js · Vue.js · Astro · Tailwind CSS<br>
   **Backend:** PHP · Laravel · Filament · Pimcore · Symfony<br>
   **Data and infrastructure:** MySQL · PostgreSQL · Docker · AWS
+  
   ---
 
   <p align="center">Open to freelance and contract work through <a href="https://www.codeverse.agency/en">CodeVerse</a>. <a href="mailto:mateo.k@codeverse.agency">Get in touch</a>.</p>
