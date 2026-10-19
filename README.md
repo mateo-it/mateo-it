@@ -1,63 +1,42 @@
-<div align="center">
-  <a href="https://www.linkedin.com/in/mateo-kantoci-900a37177/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="mateo.k@codeverse.agency" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
-  </a>
-  <a href="https://www.facebook.com/mateo.kantoci/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo"  />
-  </a>
-</div>
+<h1 align="center">Mateo Kantoci</h1>
+  
+  <p align="center">
+    <b>Full-stack developer</b> · Founder of <a href="https://www.codeverse.agency/en">CodeVerse</a> · Croatia
+  </p>
 
-###
+  <p align="center">
+    <a href="https://www.codeverse.agency/en/portfolio"><img src="https://img.shields.io/badge/Portfolio-codeverse.agency-111827?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+    <a href="https://www.linkedin.com/in/mateo-kantoci-900a37177/"><img src="https://img.shields.io/badge/LinkedIn-Mateo%20Kantoci-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="mailto:mateo.k@codeverse.agency"><img src="https://img.shields.io/badge/Email-mateo.k%40codeverse.agency-D14836?style=flat-square&logo=maildotru&logoColor=white" alt="Email" /></a>
+  </p>
 
-<h1 align="center">Hello! Nice to meet you and welcome!👋</h1>
+  ---
 
-###
+  I build web products with **React, Next.js, Vue.js and Laravel**: product dashboards, marketing sites, webshops and the backends behind them.
 
-<h3 align="left">👩‍💻  About Me</h3>
+  In 2023 I founded **CodeVerse d.o.o.**, a small studio in Pregrada, Croatia. We build websites, webshops and web apps for Croatian and international clients, and we automate document processing, search and workflows for US healthcare companies.
 
-###
+  ### Selected work
 
-<p align="left">I'm a full stack developer from Croatia.<br><br>- 🔭 I’m  a full stack developer and down below you can find all the tools I'm working with</p>
+  | Project | Role | What I did | Stack |
+  |---|---|---|---|
+  | [**Openlane**](https://www.theopenlane.io/) | Senior Frontend Developer (2025–2026) | Built the dashboards and core compliance modules (policies, procedures, tasks, evidence, controls), the Trust Center, and the marketing site | Astro, Payload CMS |
+  | [**Spearphish**](https://spearphish.io/) | Developer | Worked on the platform that identifies anonymous website visitors and turns them into sales leads | React, Vue.js, Laravel |
+  | [**Deluxe Media**](https://www.bydeluxe.com/) | Full-stack Developer | Worked on media services for digital distribution, cinema, mastering, streaming and asset management | React, Vue.js, Laravel |
+  | **Cierra GmbH** (via CodeVerse) | Developer (CodeVerse) | Moved the blog admin from WordPress to Laravel Filament and built the client's mobile app | Laravel Filament, Apache Cordova |
 
-###
+  Openlane, Spearphish and Deluxe Media were team projects I worked on as an employee; the products belong to those companies. More client work is on the [CodeVerse portfolio](https://www.codeverse.agency/en/portfolio).
 
-<h3 align="left">🛠 Language and tools</h3>
+  ### Tech stack
 
-###
+  **Frontend:** TypeScript · JavaScript · React · Next.js · Vue.js · Astro · Tailwind CSS<br>
+  **Backend:** PHP · Laravel · Filament · Pimcore · Symfony<br>
+  **Data and infrastructure:** MySQL · PostgreSQL · Docker · AWS
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="laravel logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vuejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-</div>
+  ### Open source on this profile
 
-###
+  - [**codeverse_vue_calc**](https://github.com/mateo-it/codeverse_vue_calc): a full-stack calculator built with Laravel 12, Vue 3.5, TypeScript, Tailwind CSS v4 and Docker. It handles operator precedence, parentheses, exponents and square roots.
 
-<h3 align="left">🔥   My Stats :</h3>
+  ---
 
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=mateo-it&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
-###
+  <p align="center">Open to freelance and contract work through <a href="https://www.codeverse.agency/en">CodeVerse</a>. <a href="mailto:mateo.k@codeverse.agency">Get in touch</a>.</p>
