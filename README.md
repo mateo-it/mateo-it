@@ -32,11 +32,6 @@
   **Frontend:** TypeScript · JavaScript · React · Next.js · Vue.js · Astro · Tailwind CSS<br>
   **Backend:** PHP · Laravel · Filament · Pimcore · Symfony<br>
   **Data and infrastructure:** MySQL · PostgreSQL · Docker · AWS
-
-  ### Open source on this profile
-
-  - [**codeverse_vue_calc**](https://github.com/mateo-it/codeverse_vue_calc): a full-stack calculator built with Laravel 12, Vue 3.5, TypeScript, Tailwind CSS v4 and Docker. It handles operator precedence, parentheses, exponents and square roots.
-
   ---
 
   <p align="center">Open to freelance and contract work through <a href="https://www.codeverse.agency/en">CodeVerse</a>. <a href="mailto:mateo.k@codeverse.agency">Get in touch</a>.</p>
